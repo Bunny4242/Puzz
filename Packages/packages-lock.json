@@ -22,7 +22,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.analytics": {
-      "version": "3.5.3",
+      "version": "3.6.12",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -31,14 +31,14 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.cinemachine": {
-      "version": "2.6.3",
+      "version": "2.6.17",
       "depth": 0,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
     "com.unity.collab-proxy": {
-      "version": "1.17.2",
+      "version": "1.17.6",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -79,7 +79,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.postprocessing": {
-      "version": "3.0.3",
+      "version": "3.2.2",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -106,7 +106,7 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.test-framework": {
-      "version": "1.1.31",
+      "version": "1.1.33",
       "depth": 0,
       "source": "registry",
       "dependencies": {
