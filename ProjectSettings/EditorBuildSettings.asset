@@ -5,13 +5,13 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
+  - enabled: 1
     path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newMenu.unity
     guid: 9494d851a4df23d48bb9fc8fb15a9d66
-  - enabled: 0
+  - enabled: 1
     path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/Level 1.unity
     guid: b7f1d3e50007f7a4c848a7699834f0e8
-  - enabled: 0
-    path: Assets/RPG_FPS_game_assets_industrial/Map_v2.unity
-    guid: 1d35c8ff8df44934ab0d5619746c0699
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/Level 2.unity
+    guid: 93b9e8dec3e68044aaffa20d17296322
   m_configObjects: {}
