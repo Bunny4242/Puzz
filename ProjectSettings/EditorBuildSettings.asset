@@ -6,12 +6,15 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/newMenu.unity
-    guid: 9494d851a4df23d48bb9fc8fb15a9d66
+    path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/ExampleMenu.unity
+    guid: 0d85e03bacb199f408b4439fac4e3d46
   - enabled: 1
-    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/Level 1.unity
-    guid: b7f1d3e50007f7a4c848a7699834f0e8
+    path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level01.unity
+    guid: 2e165c8be289f47448ae22da26c690f2
   - enabled: 1
-    path: Assets/Creator Kit - Puzzle/Scenes/UserCreated/Level 2.unity
-    guid: 93b9e8dec3e68044aaffa20d17296322
+    path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level02.unity
+    guid: 8587612e8826fec4994aafd966fa4dc3
+  - enabled: 1
+    path: Assets/Creator Kit - Puzzle/Scenes/ExampleScenes/Level03.unity
+    guid: 8e80dae27616da241995f2290dca03b7
   m_configObjects: {}
