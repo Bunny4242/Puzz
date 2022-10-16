@@ -1417,7 +1417,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1894888563, guid: 265978cc11efcb246b02b68be4f3e358, type: 3}
       propertyPath: m_Name
-      value: Goal (1)
+      value: Goal
       objectReference: {fileID: 0}
     - target: {fileID: 1894888565, guid: 265978cc11efcb246b02b68be4f3e358, type: 3}
       propertyPath: m_RootOrder
@@ -1649,7 +1649,7 @@ PrefabInstance:
     - target: {fileID: 8926975693160608755, guid: db592cc10f8ca3346b67e251b3046d8c,
         type: 3}
       propertyPath: m_Name
-      value: Main Camera (1)
+      value: Main Camera
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: db592cc10f8ca3346b67e251b3046d8c, type: 3}
@@ -1830,7 +1830,7 @@ PrefabInstance:
     - target: {fileID: 384889229971728208, guid: ef838aad987e6224cb9674bda577603a,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.887
+      value: -3.7270005
       objectReference: {fileID: 0}
     - target: {fileID: 384889229971728208, guid: ef838aad987e6224cb9674bda577603a,
         type: 3}
@@ -2481,7 +2481,7 @@ PrefabInstance:
     - target: {fileID: 2339548019319547920, guid: a6ce64d5a355af648bd71071fd0c170d,
         type: 3}
       propertyPath: m_Name
-      value: VirtualCamera (1)
+      value: VirtualCamera
       objectReference: {fileID: 0}
     - target: {fileID: 2339548019319547922, guid: a6ce64d5a355af648bd71071fd0c170d,
         type: 3}
@@ -3740,7 +3740,7 @@ PrefabInstance:
     - target: {fileID: 7400117591718497272, guid: d3424646437583d43b2e7962f2e2ddb1,
         type: 3}
       propertyPath: m_Name
-      value: LevelBackground (1)
+      value: LevelBackground
       objectReference: {fileID: 0}
     - target: {fileID: 7400117591718497273, guid: d3424646437583d43b2e7962f2e2ddb1,
         type: 3}
@@ -4052,7 +4052,7 @@ PrefabInstance:
     - target: {fileID: 6619908265563234156, guid: 8ae78060cdd51234abc802a3e735b140,
         type: 3}
       propertyPath: m_Name
-      value: TargetGroup (1)
+      value: TargetGroup
       objectReference: {fileID: 0}
     - target: {fileID: 6619908265563234157, guid: 8ae78060cdd51234abc802a3e735b140,
         type: 3}
@@ -7800,7 +7800,7 @@ PrefabInstance:
     - target: {fileID: 636102578777165826, guid: f5f0b36917babec49ace6e2a1d754be5,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.7899997
+      value: -3.63
       objectReference: {fileID: 0}
     - target: {fileID: 636102578777165826, guid: f5f0b36917babec49ace6e2a1d754be5,
         type: 3}
@@ -8215,7 +8215,7 @@ PrefabInstance:
     - target: {fileID: 8708705042030647249, guid: 47a7dae5249c1da449a9c374793537ba,
         type: 3}
       propertyPath: m_Name
-      value: Marble (1)
+      value: Marble
       objectReference: {fileID: 0}
     - target: {fileID: 8708705042030647252, guid: 47a7dae5249c1da449a9c374793537ba,
         type: 3}
@@ -9200,7 +9200,7 @@ PrefabInstance:
     - target: {fileID: 7062795298209618055, guid: 2f2d3c1477137884d9a962dfe86f2a1d,
         type: 3}
       propertyPath: m_Name
-      value: Lighting (1)
+      value: Lighting
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2f2d3c1477137884d9a962dfe86f2a1d, type: 3}
@@ -9305,7 +9305,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1144090831, guid: 3b1dd7f41e5e83c46ab8c85b7fc9544e, type: 3}
       propertyPath: m_Name
-      value: EventSystem (1)
+      value: EventSystem
       objectReference: {fileID: 0}
     - target: {fileID: 1144090834, guid: 3b1dd7f41e5e83c46ab8c85b7fc9544e, type: 3}
       propertyPath: m_RootOrder
@@ -9797,7 +9797,7 @@ PrefabInstance:
     - target: {fileID: 8781251348153829583, guid: 3aee8a1cad05205468b76c9feb6d5d54,
         type: 3}
       propertyPath: m_Name
-      value: LevelUICanvas (1)
+      value: LevelUICanvas
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3aee8a1cad05205468b76c9feb6d5d54, type: 3}
